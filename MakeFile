@@ -1,0 +1,5 @@
+all: check
+
+check:
+	gcc test.c
+	./a.out
